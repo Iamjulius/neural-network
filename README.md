@@ -1,1 +1,1 @@
-# neural-network
+# neural-network Hand digit recognition
